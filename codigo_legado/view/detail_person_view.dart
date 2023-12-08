@@ -1,4 +1,4 @@
-import 'package:cadastro_pessoa_app/controller/remove_pesson_controller.dart';
+import 'package:cadastro_pessoa_app/controller/remove_person_controller.dart';
 import 'package:cadastro_pessoa_app/model/pessoa.dart';
 import 'package:flutter/material.dart';
 
